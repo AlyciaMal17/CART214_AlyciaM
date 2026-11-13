@@ -6,7 +6,7 @@
 
 Here you will find my course work for this class
 
-[Style Deck game](https://github.com/CART214_AlyciaM/the-style-deck/index.html)
+[Style Deck game](https://alyciamal17.github.io/CART214_AlyciaM/the-style-deck/)
 
 A four-step interactive fashion prompt game built with HTML, CSS, vanilla JavaScript and p5.js.
 
